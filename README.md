@@ -35,8 +35,8 @@ I am Computer Engineer Web Developer and Mobile Developer.
 <a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img alt="C" title="C" height="48" src="https://user-images.githubusercontent.com/38081852/87239904-ab2f7880-c3ea-11ea-8ec9-ed6d29129685.png"></a></b>
 <a href="https://www.python.org/" target="_blank"><img alt="Phyton" title="Phyton" height="40" src="https://github.com/agricio/agricio/blob/main/assets/phyton.png"></a></b>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" title="MongoDB" height="40" src="https://github.com/agricio/agricio/blob/main/assets/mongo.png"></a></b>
-<a href="https://nextjs.org/" target="_blank"><img alt="NextJS" title="NexJS" height="40" src="https://github.com/agricio/agricio/blob/main/assets/mongo.png"></a></b>
-<a href="https://www.docker.com/get-started" target="_blank"><img alt="Docker" title="Docker" height="40" src="https://github.com/agricio/agricio/blob/main/assets/nextjs.png"></a></b>
+<a href="https://nextjs.org/" target="_blank"><img alt="NextJS" title="NexJS" height="40" src="https://github.com/agricio/agricio/blob/main/assets/nextjs.png"></a></b>
+<a href="https://www.docker.com/get-started" target="_blank"><img alt="Docker" title="Docker" height="40" src="https://github.com/agricio/agricio/blob/main/assets/docker.png"></a></b>
 
 
 <div>
