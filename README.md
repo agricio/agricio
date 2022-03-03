@@ -40,12 +40,12 @@ I am Computer Engineer Web Developer and Mobile Developer.
 
 <div>
 
-### 🌍 --Contact Me--
+### Contact Me
 
 <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
+<img width=36 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
 </a>
 <a href="https://www.instagram.com/agricio_neto/" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
+<img width=36 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
 </a>
 </div>
