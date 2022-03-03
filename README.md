@@ -19,12 +19,9 @@ I am Computer Engineer Web Developer and Mobile Developer.
 
 ### **Some languages ​​/ technologies and tools:**
 
+<code><a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/" target="_blank"><img alt="JavaScript" title="JavScript" height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"></a></code>
+  
 <code><img alt="JavaScript" title="JavScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-
-<code> <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/" target="_blank">
-<img alt="JavaScript" title="JavScript" height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
-</code>
 
 <code><img alt="TypeScript" title="TypeScript" height="40" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
   
