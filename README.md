@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">🙂 Hello Everyone!
 
-My name is Agricio Neto. 
+I'm Agricio Neto. 
 
 I am Computer Engineer Web Developer and Mobile Developer.
 
