@@ -24,9 +24,9 @@ I'm Agricio Neto.
 
 <div>
 ### Contact Me
-
+</b>
 <div>
-<a href="www.linkedin.com/in/agricio-neto-20a62913b" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/></a>
+<a href="https://www.linkedin.com/in/agricio-neto-20a62913b/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/></a>
 </b>
 <a href="https://porfolio-khaki.vercel.app/index_br.html" target="_blank"><img height="40" src="https://github.com/agricio/agricio/blob/main/assets/portfolio-my-profile-browser.png"/></a>
 </div>
