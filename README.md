@@ -7,8 +7,6 @@ I'm Agricio Neto.
 I am Computer Full Stack Developer.
 
 - 🔭 I'm currently working with [TypeScript], [React Native], [React] and [NodeJS], [C#] 
-- I ❤️make something new, Dev Community, Open Source and Coffee;
-- 😄 I have a lot of hobbies like: :pencil2: Draw 🎶 listen to music, 🎮 play ( playstation, xbox and PC )
 
 <div>
 <a href="https://beacons.ai/agricio">
@@ -24,7 +22,6 @@ I am Computer Full Stack Developer.
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></a></b> 
 <a href="https://reactnative.dev/" target="_blank"><img alt="React / React Native" title="React / React Native" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></b>
 <a href="https://nodejs.org/en/about/" target="_blank"><img alt="NodeJS" title="NodeJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></b>
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" title="Visual Studio Code" height="45" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></a></b>
 
 
 ### **Learning / sperimental skills**
@@ -42,10 +39,9 @@ I am Computer Full Stack Developer.
 
 ### Contact Me
 
-<a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/" target="_blank">
-<img width=36 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
-</a>
-<a href="https://www.instagram.com/agricio_neto/" target="_blank">
-<img width=36 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
-</a>
+<div>
+<img height="180em" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/>
+<img height="180em" src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png"/>
+</div>
+
 </div>
