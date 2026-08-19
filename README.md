@@ -4,27 +4,14 @@
 
 I'm Agricio Neto. 
 
-I am Computer Full Stack Developer.
-
-- 🔭 I'm currently working with [TypeScript], [React Native], [React] and [NodeJS], [C#] 
-
-<div>
-<a href="https://beacons.ai/agricio">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agricio&layout=compact&langs_count=16&theme=dark"/>
-</div>
+- 🔭 I'm Full Stack Developer | Java | React | REST APIs | React Native | NodeJS | C# | .NET
 
 ### **advancend Skills**
 
 <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" title="JavScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></b>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" title="TypeScript" height="40" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></a></b> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" title="CSS" height="50" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></a></b>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML" title="HTML" height="50" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></a></b> 
 <a href="https://reactnative.dev/" target="_blank"><img alt="React / React Native" title="React / React Native" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></b>
 <a href="https://nodejs.org/en/about/" target="_blank"><img alt="NodeJS" title="NodeJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></b>
-
-
-### **Learning / sperimental skills**
 
 <a href="https://angular.io/" target="_blank"><img alt="React / React Native" title="Angular" height="45" src="https://user-images.githubusercontent.com/38081852/120406321-f0b9a480-c320-11eb-8bb8-6f22e95a8eff.png"></a></b>
 <a href="https://www.electronjs.org/" target="_blank"><img alt="ElectronJS" title="ElectronJS" height="40" src="https://user-images.githubusercontent.com/38081852/87337699-3eb39700-c51a-11ea-9702-566c72a887a6.png"></a></b>
@@ -33,15 +20,15 @@ I am Computer Full Stack Developer.
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" title="MongoDB" height="40" src="https://github.com/agricio/agricio/blob/main/assets/mongo.png"></a></b>
 <a href="https://nextjs.org/" target="_blank"><img alt="NextJS" title="NexJS" height="40" src="https://github.com/agricio/agricio/blob/main/assets/nextjs.png"></a></b>
 <a href="https://www.docker.com/get-started" target="_blank"><img alt="Docker" title="Docker" height="40" src="https://github.com/agricio/agricio/blob/main/assets/docker.png"></a></b>
-
+<a href="" target="_blank"><img alt="Net" title="Net" height="40" src="https://github.com/agricio/agricio/blob/main/assets/Microsoft_.NET_logo.png"></a></b>
 
 <div>
-
 ### Contact Me
 
 <div>
-<img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/>
-<img height="40" src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png"/>
+<a href="www.linkedin.com/in/agricio-neto-20a62913b" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/></a>
+</b>
+<a href="https://porfolio-khaki.vercel.app/index_br.html" target="_blank"><img height="40" src="https://github.com/agricio/agricio/blob/main/assets/portfolio-my-profile-browser.png"/></a>
 </div>
 
 </div>
