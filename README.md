@@ -4,10 +4,9 @@
 
 I'm Agricio Neto. 
 
-I am Computer Engineer Web Developer and Mobile Developer.
+I am Computer Full Stack Developer.
 
-- 🔭 I'm currently working with [TypeScript](https://www.typescriptlang.org/), [React Native](https://reactnative.dev/), [React](https://reactjs.org/) and [NodeJS](https://nodejs.org/en/);
-- 🌱 I'm currently learning [Angular](https://angular.io/), [Python](https://www.python.org/), [Next.js](https://nextjs.org/) and [Electron](https://www.electronjs.org/);
+- 🔭 I'm currently working with [TypeScript], [React Native], [React] and [NodeJS], [C#] 
 - I ❤️make something new, Dev Community, Open Source and Coffee;
 - 😄 I have a lot of hobbies like: :pencil2: Draw 🎶 listen to music, 🎮 play ( playstation, xbox and PC )
 
