@@ -40,8 +40,8 @@ I am Computer Full Stack Developer.
 ### Contact Me
 
 <div>
-<img height="180em" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/>
-<img height="180em" src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png"/>
+<img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/>
+<img height="40" src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png"/>
 </div>
 
 </div>
