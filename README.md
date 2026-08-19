@@ -5,7 +5,7 @@ I'm Agricio Neto.
 
 - 🔭 I'm Full Stack Developer | Java | React | REST APIs | React Native | NodeJS | C# | .NET
 
-### **advancend Skills**
+### **Skills**
 
 <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" title="JavScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></b>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" title="TypeScript" height="40" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></a></b> 
@@ -22,9 +22,11 @@ I'm Agricio Neto.
 <a href="" target="_blank"><img alt="Net" title="Net" height="40" src="https://github.com/agricio/agricio/blob/main/assets/Microsoft_.NET_logo.png"></a></b>
 
 <div>
+  
 ### Contact Me
-</b>
+
 <div>
+</b>
 <a href="https://www.linkedin.com/in/agricio-neto-20a62913b/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png"/></a>
 </b>
 <a href="https://porfolio-khaki.vercel.app/index_br.html" target="_blank"><img height="40" src="https://github.com/agricio/agricio/blob/main/assets/portfolio-my-profile-browser.png"/></a>
